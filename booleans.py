@@ -22,10 +22,6 @@ print(bool(["apple", "cherry", "banana"]))
 
 
 
-
-
-
-
 # Some Values are False
 
 bool(False)
